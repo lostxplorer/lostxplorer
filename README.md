@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning "**the engineering in COMPUTER SCIENCE**"
 - 💞️ I’m looking to collaborate on ): not sure.
 - 📫 How to reach me.
-    - [LINKEDIN](https://www.linkedin.com/in/lost-explorer/ "Abhishek Poojari")
+    - [LINKEDIN](https://www.linkedin.com/in/abhishek-poojary-146165193)")
     - [INSTAGRAM](https://www.instagram.com/lost_e_xplorer/ "lost_e_xplorer")
 
 <!---
